@@ -1,0 +1,36 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/technology-phone-wallpaper-abstract-digital-design-black-blue-tone_53876-160337.jpg?size=338&ext=jpg&ga=GA1.2.795541615.1668578840&semt=sph");
+    background-size: cover;
+    height:300vh;
+}
+.headfirst{
+    margin-top: 25px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 25px;
+    text-align: center;
+}
+.bgcarousel{
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 100px;
+}
+.cardcon{
+    padding: 20px;
+
+}
+.headsecond{
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.paraline{
+    color: #6c6b70;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+
+}

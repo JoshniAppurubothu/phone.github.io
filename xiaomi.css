@@ -1,0 +1,32 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/premium-photo/dark-blue-glow-dust-particle-abstract-background_35672-1414.jpg?w=1380");
+    background-size: cover;
+    height: 200vh;
+}
+.heading1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    margin-top: 10px;
+}
+.carousel{
+    align-items: center;
+    margin: 80px;
+    padding: 50px;
+    background-color: whitesmoke;
+}
+.heading2{
+    margin:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: navy;
+    font-size: large;
+}
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#6c6b70;
+    font-size: 13px;
+    margin:10px ;
+}

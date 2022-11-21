@@ -1,0 +1,33 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/premium-photo/soft-large-color-gradient-glass-glows-backgrounds-fashion-flyer-brochure-design-set-soft-bright-gradiented-wallpaper-mobile-apps-ui-design-banner-poster_146482-8813.jpg?w=360");
+    height: 100vh;
+    background-size: cover;
+}
+.mobileheading{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 25px;
+}
+.layoutcard{
+    background-color: white;
+    border-radius: 8px;
+    padding: 18px;
+    margin: 15px;
+}
+.brandscont{
+    color:#401836 ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.brandspara{
+    color: #6c6b70;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.brandimg{
+    width: 50px;
+    height: 80px;
+}
